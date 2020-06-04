@@ -1,22 +1,22 @@
-TQC+網頁擷取與分析
+<h1>TQC+網頁擷取與分析</h1>
 
-第一類:資料處理能力
+<h2>第一類:資料處理能力</h2>
 1.CSV、XML、JSON、YAML之讀取與寫入
 2.SQLite資料庫之處理
 
-第二類:網頁資料擷取與轉換
+<h2>第二類:網頁資料擷取與轉換</h2>
 1.Requests
 2.Urllib
 3.BeautifulSoup
 
-第三類:資料分析能力(NumPy與Pandas之應用)
+<h2>第三類:資料分析能力(NumPy與Pandas之應用)</h2>
 1.存取單一元素
 2.存取子陣列
 3.聚合作用(aggregation operation)
 4.索引
 5.排序
 
-第四類:資料視覺化能力(Matplotlib之應用)
+<h2>第四類:資料視覺化能力(Matplotlib之應用)</h2>
 1.圖表之設定
 (1)標題，文字，圖例設定
 (2)線條設定
